@@ -1,4 +1,4 @@
-# Daytum Development Environment
+# PGEHackathon Development Environment
 
-This repository builds the Daytum specific development environment for Github Codespaces.
+This repository builds the PGEHackathon specific development environment for Github Codespaces.
 
